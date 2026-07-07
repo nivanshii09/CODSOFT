@@ -139,9 +139,8 @@ Enter Amount: 100
 ---
 
 ## Author
-
-Your Name
-
+Nivanshi Choudhary
+(https://github.com/nivanshii09)
 ---
 
 ## Internship Details
