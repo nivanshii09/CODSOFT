@@ -140,7 +140,6 @@ Enter Amount: 100
 
 ## Author
 
-Nivanshi Choudhary
 (https://github.com/nivanshii09)
 ---
 
